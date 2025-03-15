@@ -4,7 +4,7 @@ This repository made for beginner and expert of Isaac Sim
 
 Our course will be devided in the 2 way
 
-1. Introduction to Isaac Sim
+### 1. Introduction to Isaac Sim
 
 This course made for who doesn't have robot simulation experience.
 The goal of course is familiar with Isaac Sim.
@@ -22,4 +22,4 @@ There is 3 optional way for AWS EC2 setup
 
 
 
-2. Fluent Isaac Sim
+### 2. Fluent Isaac Sim
