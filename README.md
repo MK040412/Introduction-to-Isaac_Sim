@@ -20,11 +20,11 @@ There is 3 optional way for AWS EC2 setup
 > 2. Reserved Omstamce : Commit to a one- or three-year term, up to 75% discount
 > 3. Spot Instance : Instance can be terminated at any time, save up to 90% discount 
 
-| Payment Option | Explanation | Discount Potential | Risk Level                                 |
-|----------------|-------------|--------------------|--------------------------------------------|
-| **On-Demand**  | You pay only for the resources you use, with no upfront commitment or discounts. | 0%                 | Low (stable, no upfront commitment)       |
-| **Reserved**   | You commit to a one- or three-year term for up to a 75% discount.             | Up to 75%          | Low (requires upfront/long-term commitment)|
-| **Spot**       | You can save up to 90% by using spare capacity, but instances may be terminated at any time. | Up to 90%          | High (instances can be interrupted)        |
+| Payment Option | Keywords                                      |
+|----------------|-----------------------------------------------|
+| On-Demand      | Pay-as-you-go, no discount                    |
+| Reserved       | 1/3-year term, up to 75% discount             |
+| Spot           | Spare capacity, up to 90% discount, interruption |
 
 
 ### 2. Fluent Isaac Sim
