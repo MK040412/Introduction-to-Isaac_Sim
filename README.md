@@ -16,10 +16,15 @@ But you don't need to worry about this problem, you can use AWS EC2 for using Is
 
 There is 3 optional way for AWS EC2 setup
 
-> 1. On-Demand : 
-> 2. Reserved Omstamce :
-> 3. Spot Instance :
+> 1. On-Demand : Pay only for the resources, No upfront commitment or discounts
+> 2. Reserved Omstamce : Commit to a one- or three-year term, up to 75% discount
+> 3. Spot Instance : Instance can be terminated at any time, save up to 90% discount 
 
+| Payment Option | Explanation | Discount Potential | Risk Level                                 |
+|----------------|-------------|--------------------|--------------------------------------------|
+| **On-Demand**  | You pay only for the resources you use, with no upfront commitment or discounts. | 0%                 | Low (stable, no upfront commitment)       |
+| **Reserved**   | You commit to a one- or three-year term for up to a 75% discount.             | Up to 75%          | Low (requires upfront/long-term commitment)|
+| **Spot**       | You can save up to 90% by using spare capacity, but instances may be terminated at any time. | Up to 90%          | High (instances can be interrupted)        |
 
 
 ### 2. Fluent Isaac Sim
