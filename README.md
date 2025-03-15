@@ -16,9 +16,9 @@ But you don't need to worry about this problem, you can use AWS EC2 for using Is
 
 There is 3 optional way for AWS EC2 setup
 
-> 1. I'm gay
-> 
->
+> 1. On-Demand : 
+> 2. Reserved Omstamce :
+> 3. Spot Instance :
 
 
 
