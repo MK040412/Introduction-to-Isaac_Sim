@@ -47,13 +47,7 @@ git clone <repository-url>
 ```bash
 cd <repository-name>
 ```
-
-3. Follow the tutorials in the provided order, beginning with the introductory lessons and advancing as you gain confidence and familiarity.
-
-## Resources
-
-- [Isaac Sim Documentation](https://docs.omniverse.nvidia.com/isaacsim/latest/index.html)
-- [AWS EC2 Pricing Information](https://aws.amazon.com/ec2/pricing/)
+3. 
 
 ## Contributing
 
