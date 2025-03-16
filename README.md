@@ -36,18 +36,17 @@ This advanced course is designed for users who are already familiar with Isaac S
 
 To get started, follow these steps:
 
+  > * **Ubuntu OS** is recommended, because window os has limitation with some function of Isaac Sim.  
+
 1. Clone this repository:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/MK040412/Introduction-to-Isaac_Sim.git
 ```
+2. Download Isaac Sim on your computer
 
-2. Navigate to the repository directory:
+Read 
 
-```bash
-cd <repository-name>
-```
-3. 
 
 ## Contributing
 
