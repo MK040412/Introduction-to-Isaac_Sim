@@ -1,3 +1,3 @@
 # Franka
 
-We will cover about Imitation Learning and Reinforcement learning with baseline
+We will cover about Imitation Learning and Reinforcement learning with baseline3
