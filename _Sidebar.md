@@ -15,6 +15,12 @@
 * [Franka Robot Control Basics](Franka-Robot-Control-Basics)
 * [Gripper Operation](Gripper-Operation)
 
+## Advanced Control Methods
+* [PD Control for Franka Robot](PD-Control-for-Franka)
+* [Impedance Control](Impedance-Control)
+* [Inverse Kinematics](Inverse-Kinematics)
+* [Joint Space Control](Joint-Space-Control)
+
 ## Isaac Lab Connection
 * [Isaac Lab Installation](Isaac-Lab-Installation)
 * [Connecting Isaac Sim and Lab](Connecting-Isaac-Sim-and-Lab)
