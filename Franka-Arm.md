@@ -1,8 +1,4 @@
-# Sidebar
-
-* [Welcome](index.md)
-
-## Franka Arm
+# Franka Arm
 * [Overview](franka/overview.md)
 * [Simulation Setup](franka/simulation_setup.md)
 * [PD Control](franka/pd_control.md)
